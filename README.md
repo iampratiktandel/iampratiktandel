@@ -45,10 +45,7 @@
   <a href="#">
     <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-  
 </p>
-
 
 ### Tools  
 <p align="left">
@@ -61,16 +58,16 @@
   </a>
 </p>
 
---- 
+---
 
 ## Social & Professional
 <p align="left">
  
-  <a href="#">
+  <a href="https://www.linkedin.com/in/iampratiktandel/">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
  
-  <a href="#">
+  <a href="https://www.snapchat.com/add/ptandel1998">
     <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
