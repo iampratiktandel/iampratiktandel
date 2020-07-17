@@ -10,6 +10,22 @@
 
 <p align="left">
   <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
     <img src="./svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
@@ -20,6 +36,10 @@
   <a href="#">
     <img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>    
+  
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
   
   <a href="#">
     <img src="./svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
@@ -35,6 +55,10 @@
 
   <a href="#">
     <img src="./svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
