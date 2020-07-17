@@ -10,23 +10,23 @@
 
 <p align="left">
   <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
-    <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
-    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
-    <img src="./svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
@@ -34,53 +34,53 @@
 
 <p align="left">
   <a href="#">
-    <img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>    
   
   <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
-    <img src="./svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="./svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="./svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="./svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
-    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
 ### Services 
 <p align="left">
   <a href="#">
-    <img src="./svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
 
   <a href="#">
-    <img src="./svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
 
 ### Tools  
 <p align="left">
   <a href="#">
-    <img src="./svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
   
   <a href="#">
-    <img src="./svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
@@ -90,11 +90,11 @@
 <p align="left">
  
   <a href="https://www.linkedin.com/in/iampratiktandel/">
-    <img src="./svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
  
   <a href="https://www.snapchat.com/add/ptandel1998">
-    <img src="./svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
  
