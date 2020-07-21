@@ -101,7 +101,7 @@
 ---
 
 <!--
-**iampratiktandel/iampratiktandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is an overview of Pratik Tandel's Github Account.
 
 Here are some ideas to get you started:
 
