@@ -26,7 +26,7 @@
   </a>
   
   <a href="#">
-    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/angular.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
