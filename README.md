@@ -14,10 +14,6 @@
   </a>
   
   <a href="#">
-    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
-  <a href="#">
     <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>
   
@@ -26,7 +22,7 @@
   </a>
   
   <a href="#">
-    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/angular.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
@@ -55,10 +51,6 @@
 
   <a href="#">
     <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
