@@ -24,6 +24,10 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>  
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+  </a>
 </p>
 
 ### Languages 
