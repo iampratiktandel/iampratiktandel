@@ -1,6 +1,6 @@
 # Welcome to Pratik's Codeverse
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=iampratiktandel&show_icons=true&layout=comapct&count_private=true&&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=iampratiktandel&show_icons=true&layout=comapct&include_all_commits=true&count_private=true&&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampratiktandel&langs_count=10&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
