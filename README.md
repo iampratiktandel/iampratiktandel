@@ -16,19 +16,27 @@
   </a>
   
   <a href="#">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ 
+  <a href="#">
     <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+### Libraries
+
+<p align="left">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/react.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
     <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
@@ -62,6 +70,13 @@
 
 ### Services 
 <p align="left">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/services/azure.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/services/digitalocean.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a> 
   <a href="#">
     <img src="https://raw.githubusercontent.com/iampratiktandel/iampratiktandel/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
