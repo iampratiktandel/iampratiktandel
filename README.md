@@ -1,11 +1,17 @@
 # Welcome to Pratik's Codeverse
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=iampratiktandel&show_icons=true&layout=comapct&include_all_commits=true&count_private=true&&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iampratiktandel&show_icons=true&layout=comapct&include_all_commits=true&count_private=true&&theme=chartreuse-dark" alt="iampratiktandel github stats"/>
+<p>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampratiktandel&langs_count=10&layout=compact&theme=chartreuse-dark" alt="iampratiktandel language stats"/>
+<p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampratiktandel&langs_count=10&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iampratiktandel&column=-1&margin-w=15&margin-h=15" alt="iampratiktandel trophy stats"/>
+<p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iampratiktandel&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
----
 
 ## Developer Tech
 
@@ -113,8 +119,9 @@
 </p>
  
 ---
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iampratiktandel&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iampratiktandel&theme=chartreuse-dark" alt="iampratiktandel wakatime stats"/>
+<p>
 
 
 <!--
